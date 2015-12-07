@@ -1,0 +1,28 @@
+name: MichaelFranz
+favicon: null
+layout_spectrum: 0.07181527116335928
+typography_spectrum: 0.3281661234796047
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.4057961441576481
+  lightness: 0.13303044065833092
+  saturation: 0.8995034052059054
+  rhythmicContrast: 0.42437289096415043
+purpose: []
